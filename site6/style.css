@@ -1,0 +1,40 @@
+/*
+	[Main Page]
+*/
+body
+{
+	padding: 0px;
+	margin: 0px;
+}
+
+/*
+	[Header Section]
+*/
+.Header
+{
+	background-color: #E1E0E1;
+	height: 70px;
+}
+
+#title
+
+#create_message
+{
+	background-color: #FFAE52;
+}
+
+/*
+	[Message Section]
+*/
+.Message
+{
+
+}
+
+/*
+	[Footer Section]
+*/
+.Footer
+{
+	
+}
